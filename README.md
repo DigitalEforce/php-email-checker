@@ -31,7 +31,7 @@ A simple PHP web app that checks if up to **10 email addresses** really exist by
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/php-email-checker.git
+   git clone https://github.com/DigitalEforce/php-email-checker.git
    ```
 
 2. Place in your PHP server (XAMPP, WAMP, or hosting).  
