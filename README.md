@@ -17,9 +17,7 @@ A simple PHP web app that checks if up to **10 email addresses** really exist by
 
 ---
 
-## 📸 Screenshot
-*(Add your screenshot here once deployed)*  
-Example:  
+## Example 
 
 | Email                | Status         |
 |----------------------|----------------|
